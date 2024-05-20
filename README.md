@@ -32,6 +32,7 @@
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#commit-message-convention">Commit Message Convention</a></li>
     <li><a href="#contributor">Contributor</a></li>
   </ol>
 </details>
@@ -72,6 +73,21 @@
 ## Roadmap
 
 - [ ] PC, Tablet, Mobile 반응형 지원
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Commit Message Convention
+| 커밋명   | 내용                                        |
+| -------- | ------------------------------------------- |
+| FEAT     | 파일, 폴더, 새로운 기능 추가                |
+| FIX      | 버그 수정                                   |
+| DOCS     | README 등의 문서 수정                         |
+| STYLE    | 코드 형식, 정렬, 주석 등의 변경             |
+| REFACTOR | 코드 리팩토링                               |
+| TEST     | 테스트 코드 추가 및 수정                            |
+| CHORE    | 환경설정, 빌드 업무, 패키지 매니저 설정등.. |
+| HOTFIX   | 치명적이거나 급한 버그 수정                 |
+| REMOVE   | 사용하지 않는 변수, 파일 etc 삭제           |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
