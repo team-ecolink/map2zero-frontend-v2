@@ -13,7 +13,7 @@
   <h1 align="center">Map 2 Zero</h1>
 
   <p align="center">
-    지속가능한 삶을 위한 ESG 서비스 Map:Zero(맵투제로)의 서버 레포지토리입니다.
+    지속가능한 삶을 위한 ESG 서비스 Map:Zero(맵투제로)의 Frontend 레포지토리입니다.
     <br/>
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
