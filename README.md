@@ -15,8 +15,6 @@
   <p align="center">
     지속가능한 삶을 위한 ESG 서비스 Map:Zero(맵투제로)의 Frontend 레포지토리입니다.
     <br/>
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
     <a href="https://github.com/team-ecolink/map2zero-frontend-v2/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/team-ecolink/map2zero-frontend-v2/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
