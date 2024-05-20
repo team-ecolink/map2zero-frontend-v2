@@ -26,13 +26,13 @@
   <summary>목차</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Description</a>
+      <a href="#description">Description</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributor</a></li>
+    <li><a href="#contributor">Contributor</a></li>
   </ol>
 </details>
 
